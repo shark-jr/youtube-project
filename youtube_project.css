@@ -1,0 +1,157 @@
+body {
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
+.header,
+.marketing,
+.footer {
+  padding-right: 15px;
+  padding-left: 15px;
+}
+
+.header {
+  padding-bottom: 20px;
+  border-bottom: 1px solid #e5e5e5;
+}
+.header h3 {
+  margin-top: 0;
+  margin-bottom: 0;
+  line-height: 40px;
+}
+
+.footer {
+  padding-top: 19px;
+  color: #777;
+  border-top: 1px solid #e5e5e5;
+}
+
+@media (min-width: 768px) {
+  .container {
+    max-width: 730px;
+  }
+}
+.container-narrow > hr {
+  margin: 30px 0;
+}
+
+.jumbotron {
+  text-align: center;
+  border-bottom: 1px solid #e5e5e5;
+}
+.jumbotron .btn {
+  padding: 14px 24px;
+  font-size: 21px;
+}
+
+.marketing {
+  margin: 40px 0;
+}
+.marketing p + h4 {
+  margin-top: 28px;
+}
+
+
+  .header {
+    margin-bottom: 30px;
+  }
+
+
+.container {
+  text-align: center;
+  float: right;
+  margin-right: 16em;
+  background-color: white;
+  width: 690px;
+}
+
+.plshelp{
+  list-style-type: none;
+  text-align: left;
+  float: left;
+  background-color: white;
+  margin-left: 16.79em;
+  padding-right: 82px;
+  padding-bottom: 711px;
+}
+
+body {
+  background-image: url(http://eskipaper.com/images/blurred-2.jpg);
+}
+
+.ineedhelp{
+  background-color: #F62829;
+  border: 5px solid #F62829;
+  outline:none;
+  float: left;
+  margin-left: 54px;
+  border-radius: 5px;
+  color: white;
+}
+
+.subscriber{
+float: left;
+}
+
+.video-name{
+  font-size: 1.3em;
+  text-align: left;
+  margin-left: 54px;
+}
+h4{
+  text-align: left;
+  margin-left: 1em;
+}
+
+#comment {
+  text-align: left;
+  margin-left: 3em;
+}
+
+.logo{
+margin-left: 16.79em;
+ /*padding-right: 5em;*/
+  background-color: white;
+  margin-right: 256px;
+}
+
+.form-control{
+  width: 450px;
+height: 25px;
+    float: right;
+    margin-top: 34px;
+    margin-right: 340px;
+    border: none;
+    border-color: #ECECEC;
+    border-width: 1px;
+    padding-left: 5px;
+    border-left: 1px solid lightgray;
+
+}
+a:link {
+  padding-bottom: 1em;
+  text-decoration: none;
+  color: lightgrey;
+}
+a:visited{
+  color: lightgrey;
+}
+
+/*.separator {
+  border-right: 1px solid lightgrey;
+  height: 10px;
+}*/
+
+.logo-container{
+  background-color: white;
+}
+li{
+  padding-bottom: 7px;
+}
+
+#guide{
+  font-size: 0.7em;
+}
+.likes {
+  padding-left: 274px;
+}
