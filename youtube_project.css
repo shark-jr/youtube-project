@@ -72,7 +72,7 @@ body {
   background-color: white;
   margin-left: 16.79em;
   padding-right: 82px;
-  padding-bottom: 711px;
+  padding-bottom: 698px;
 }
 
 body {
@@ -154,4 +154,11 @@ li{
 }
 .likes {
   padding-left: 274px;
+}
+.jake{
+  background-color: #FAFAFA;
+  border-left: 3px solid #4EC629;
+}
+.tim{
+  background-color: #FAFAFA;
 }
